@@ -25,18 +25,18 @@
 
 ### 📝 Selected Publications
 
-**🥇 (Co-) First Author Publications**
+#### 🥇 (Co-) First Author Publications
 
-- **[AAAI 2026] D$^{3}$ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs **\
-  * **Shuochen Chang**, Xiaofeng Zhang, Qingyang Liu, Li Niu*
-  [![arXiv](https://img.shields.io/badge/arXiv-2511.12280-b31b1b.svg)](https://arxiv.org/abs/2511.12280)
-  [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/D3ToM-Diffusion-MLLM)
+- **[AAAI 2026] D³ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs** <br>
+  **Shuochen Chang**, Xiaofeng Zhang, Qingyang Liu, Li Niu* <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-2511.12280-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.12280)
+  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/bcmi/D3ToM-Diffusion-MLLM)
 
-**🥈 Co-Author Publications**
+#### 🥈 Co-Author Publications
 
-- **[ICLR 2026]** Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective \
-  * Qiyan Zhao, Xiaofeng Zhang, **Shuochen Chang**, Qianyu Chen, Xiaosong Yuan, Xuhang Chen, Luoqi Liu, Jiajun Zhang, Xu-Yao Zhang, Da-Han Wang*
-  [![arXiv](https://img.shields.io/badge/arXiv-2601.20520-b31b1b.svg)](https://arxiv.org/abs/2601.20520)
-  [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/ErikZ719/CoTA)
+- **[ICLR 2026] Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective** <br>
+  Qiyan Zhao, Xiaofeng Zhang, **Shuochen Chang**, Qianyu Chen, Xiaosong Yuan, Xuhang Chen, Luoqi Liu, Jiajun Zhang, Xu-Yao Zhang, Da-Han Wang* <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-2601.20520-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2601.20520)
+  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/ErikZ719/CoTA)
 
 ---
