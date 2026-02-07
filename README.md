@@ -27,7 +27,7 @@
 
 **🥇 (Co-) First Author Publications**
 
-- **[AAAI 2026]** D$^{3}$ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs \
+- **[AAAI 2026] D$^{3}$ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs **\
   * **Shuochen Chang**, Xiaofeng Zhang, Qingyang Liu, Li Niu*
   [![arXiv](https://img.shields.io/badge/arXiv-2511.12280-b31b1b.svg)](https://arxiv.org/abs/2511.12280)
   [![GitHub](https://img.shields.io/badge/GitHub-Code-E0E0E0?logo=github)](https://github.com/bcmi/D3ToM-Diffusion-MLLM)
