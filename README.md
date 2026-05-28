@@ -20,7 +20,7 @@
 
 - 📖 I am currently an M.S. student (since 2025) at School of Computer Science, Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.ustcnewly.com/). I got my bachelor's degree from Department of Computer Science and Engineering, SJTU.
 - 💻 I am a Research Intern at ByteDance TikTok, related to Foundation Models and Post-Training, mentored by [Yan Li](https://yanli.netlify.app/) and [Bohan Li](https://github.com/LBH1024). 
-- 🚀 My current research interests lie in Multimodal LLMs, focusing on RL & Reasoning. I am also interested in Efficient Multimodal Understanding and Long-Context Modeling.
+- 🚀 My current research interests lie in Multimodal LLMs, focusing on RL & Reasoning. I am also interested in Efficient Reasoning and Long-Context Modeling.
 ---
 
 ### 📝 Selected Publications
@@ -36,6 +36,9 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/bcmi/D3ToM-Diffusion-MLLM)
 
 #### 🥈 Co-Author Publications
+- **[ICML 2026] Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners** <br>
+  Qingyang Liu, Bingjie Gao, Canmiao Fu, Zhipeng Huang, Chen Li, Feng Wang, **Shuochen Chang**, Shaobo Wang, Yali Wang, Keming Ye, Jiangtong Li†, Li Niu† <br>
+  
 
 - **[ICLR 2026] Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective** <br>
   Qiyan Zhao*, Xiaofeng Zhang*, **Shuochen Chang**, Qianyu Chen, Xiaosong Yuan, Xuhang Chen, Luoqi Liu, Jiajun Zhang, Xu-Yao Zhang, Da-Han Wang <br>
