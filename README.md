@@ -29,6 +29,7 @@
 
 - **[ACL 2026 Main] Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention** <br>
   **Shuochen Chang**, Tong Bai*, Xiaofeng Zhang, Qianli Ma, Qingyang Liu, Zhaohe Liao, Yibo Miao, Li Niu† <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-2511.12280-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.12280)
   [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/Miraclecsc/Interpretable-Latent-Intervention)
 
 - **[AAAI 2026] D³ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs** <br>
@@ -39,6 +40,8 @@
 #### 🥈 Co-Author Publications
 - **[ICML 2026] Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners** <br>
   Qingyang Liu, Bingjie Gao, Canmiao Fu, Zhipeng Huang, Chen Li, Feng Wang, **Shuochen Chang**, Shaobo Wang, Yali Wang, Keming Ye, Jiangtong Li†, Li Niu† <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.14709-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2605.14709)
+  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/WeChatCV/Interleaved_Visual_Reasoner)
   
 
 - **[ICLR 2026] Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective** <br>
@@ -48,4 +51,5 @@
   
 - **[WWW 2026] Bridging Visual Dynamics and Narrative Reasoning: Multimodal Large Language Models for Short Drama Quality Assessment** <br>
   Qingyang Liu, Jiangtong Li†, Zelin Peng, Shaobo Wang, Zhaohe Liao, Shuochen Chang, Bingjie Gao, Haonan Zhao, Mu Liu, Jidong Jiang, Li Niu† <br>
+  [![arXiv](https://img.shields.io/badge/arXiv-2601.20520-b31b1b.svg?style=flat-square)](https://dl.acm.org/doi/abs/10.1145/3774904.3792827)
 ---
