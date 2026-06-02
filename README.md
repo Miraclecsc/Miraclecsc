@@ -29,7 +29,7 @@
 
 - **[ACL 2026 Main] Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention** <br>
   **Shuochen Chang**, Tong Bai*, Xiaofeng Zhang, Qianli Ma, Qingyang Liu, Zhaohe Liao, Yibo Miao, Li Niu† <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2511.12280-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.12280)
+  [![arXiv](https://img.shields.io/badge/arXiv-2606.01243-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2606.01243)
   [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/Miraclecsc/Interpretable-Latent-Intervention)
 
 - **[AAAI 2026] D³ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs** <br>
