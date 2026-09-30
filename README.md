@@ -1,55 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shuochen+Chang;AI+Researcher+@+SJTU+CS" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Shuochen+Chang;M.S.+Student+at+SJTU" alt="Hi there! I'm Shuochen Chang" />
 
-<h1 align="center">Shuochen Chang (常烁晨)</h1>
+  <h1>Shuochen Chang (常烁晨)</h1>
 
-<div align="center">
-  <a href="mailto:csc1332741686@sjtu.edu.cn">
-    <img src="https://img.shields.io/badge/Email-SJTU-0072c6?style=flat&logo=gmail" alt="Email" />
+  <a href="https://miraclecsc.github.io/">
+    <img src="https://img.shields.io/badge/Homepage-Visit-2196F3?style=flat&logo=googlechrome&logoColor=white" alt="Homepage" />
   </a>
-  
+  <a href="mailto:csc1332741686@sjtu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-SJTU-0072c6?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://scholar.google.com/citations?user=ZiFmZ5AAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </div>
 
-<br />
+### 👋 About Me
 
-### 👨‍🔬 About Me
+- 📖 I am a master's student in Computer Science at Shanghai Jiao Tong University, where I received my bachelor's degree in 2025.
+- 💻 I am currently a post-training intern at StepFun. Previously, I interned at ByteDance TikTok and 4Paradigm.
+- 🔬 My research focuses on reinforcement learning for reasoning in LLMs and multimodal LLMs, efficient architecture and inference.
 
-- 📖 I am currently an M.S. student (since 2025) at School of Computer Science, Shanghai Jiao Tong University, advised by Prof. [Niu Li](https://www.ustcnewly.com/). I got my bachelor's degree from Department of Computer Science and Engineering, SJTU.
-- 💻 I am a Research Intern at ByteDance TikTok, related to Foundation Models and Post-Training, mentored by [Yan Li](https://yanli.netlify.app/) and [Bohan Li](https://github.com/LBH1024). 
-- 🚀 My current research interests lie in Multimodal LLMs, focusing on RL & Reasoning. I am also interested in Efficient Reasoning and Long-Context Modeling.
----
+### 👨‍💻 Currently Working On
 
-### 📝 Selected Publications
+- **Woring Agent:** Prepared and distilled agent trajectories, and evaluated working task execution.
+- **Agentic post-training:** Standardized trajectory distillation across teacher models for with tools training.
+- **Recursive Self-Improvement:** Built an automated pipeline to diagnose evaluation failures, generate targeted training data, retrain models, and evaluate changes to models and agent harnesses.
 
-#### 🥇 (Co-) First Author Publications
+### 🤝 Get in Touch
 
-- **[ACL 2026 Main] Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention** <br>
-  **Shuochen Chang**, Tong Bai*, Xiaofeng Zhang, Qianli Ma, Qingyang Liu, Zhaohe Liao, Yibo Miao, Li Niu† <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2606.01243-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2606.01243)
-  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/Miraclecsc/Interpretable-Latent-Intervention)
+I am happy to discuss research and collaborate on RL and reasoning in LLMs or MLLMs. Feel free to reach out via [email](mailto:csc1332741686@sjtu.edu.cn)!
 
-- **[AAAI 2026] D³ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs** <br>
-  **Shuochen Chang**, Xiaofeng Zhang, Qingyang Liu, Li Niu† <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2511.12280-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.12280)
-  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/bcmi/D3ToM-Diffusion-MLLM)
-
-#### 🥈 Co-Author Publications
-- **[ICML 2026] Breaking Dual Bottlenecks: Evolving Unified Multimodal Models into Self-Adaptive Interleaved Visual Reasoners** <br>
-  Qingyang Liu, Bingjie Gao, Canmiao Fu, Zhipeng Huang, Chen Li, Feng Wang, **Shuochen Chang**, Shaobo Wang, Yali Wang, Keming Ye, Jiangtong Li†, Li Niu† <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.14709-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2605.14709)
-  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/WeChatCV/Interleaved_Visual_Reasoner)
-  
-
-- **[ICLR 2026] Context Tokens are Anchors: Understanding the Repetition Curse in dMLLMs from an Information Flow Perspective** <br>
-  Qiyan Zhao*, Xiaofeng Zhang*, **Shuochen Chang**, Qianyu Chen, Xiaosong Yuan, Xuhang Chen, Luoqi Liu, Jiajun Zhang, Xu-Yao Zhang, Da-Han Wang <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2601.20520-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2601.20520)
-  [![GitHub](https://img.shields.io/badge/GitHub-Code-black?style=flat-square&logo=github)](https://github.com/ErikZ719/CoTA)
-  
-- **[WWW 2026] Bridging Visual Dynamics and Narrative Reasoning: Multimodal Large Language Models for Short Drama Quality Assessment** <br>
-  Qingyang Liu, Jiangtong Li†, Zelin Peng, Shaobo Wang, Zhaohe Liao, Shuochen Chang, Bingjie Gao, Haonan Zhao, Mu Liu, Jidong Jiang, Li Niu† <br>
-  [![arXiv](https://img.shields.io/badge/arXiv-2601.20520-b31b1b.svg?style=flat-square)](https://dl.acm.org/doi/abs/10.1145/3774904.3792827)
----
+📌 Visit my [homepage](https://miraclecsc.github.io/) for publications, experience, and recent updates.
